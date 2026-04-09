@@ -1,14 +1,71 @@
-# Sobre mim:
-👋 Olá! Eu sou o Felipe Martins Nascimento<br>Sou uma pessoa dedicada, focada e sempre em busca de aprendizado contínuo. Gosto de me desafiar para evoluir pessoal e profissionalmente, tenho boa comunicação e facilidade com leitura de inglês técnico.<br><br>🚀 Experiência Profissional<br>Desenvolvedor de Sistemas – desde janeiro de 2024<br>Atuo na manutenção e desenvolvimento de soluções para ERP, utilizando C#.NET, SQL Server e VBA.<br><br>🎓 Formação Acadêmica<br>Engenharia de Software – UNAERP (2024–2027)<br>Atualmente, estou aprimorando minha lógica de programação e aprofundando meus conhecimentos técnicos.<br><br>📫 Vamos conversar?<br>Confira meus repositórios ou entre em contato comigo!
+# Felipe Martins Nascimento
 
+**Desenvolvedor de Sistemas** com experiência no desenvolvimento e evolução de **aplicações web e sistemas corporativos,** atuando com **C#/.NET** no back-end e **JavaScript** no front-end.
 
-## 🌐 Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemartins-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=lipemn08@gmail.com)
+Atuo no desenvolvimento de soluções para **ERP** e **aplicações web,** incluindo criação e manutenção de **APIs REST,** implementação de melhorias, correção de inconsistências e evolução contínua dos sistemas.
 
+Experiência com **migração de sistemas legados (VBA → .NET),** desenvolvimento de **relatórios e dashboards,** além de **otimização de consultas em SQL Server,** contribuindo diretamente para **performance** e **tomada de decisão.**
 
-# 💻 Pilha de Tecnologia:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Martins-Nascimento&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Vivência em ambientes ágeis (**Scrum**), participando de entregas contínuas e aplicando boas práticas como **Clean Code** e **arquitetura em camadas.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Principais Competências
+
+- Desenvolvimento de **APIs REST** com **C#/.NET (ASP.NET Core)**
+- Integração com bancos de dados e **otimização de performance (SQL Server)**
+- Desenvolvimento **fullstack** com **JavaScript, HTML e CSS**
+- **Migração e modernização** de sistemas legados (**VBA → .NET**)
+- Modelagem de dados e uso de **Entity Framework Core**
+- Estruturação de aplicações com **arquitetura em camadas**
+
+---
+
+## 🧠 HABILIDADES TÉCNICAS
+
+**Back-End:** C#, .NET, ASP.NET Core, APIs REST  
+**Front-End:** JavaScript, HTML, CSS  
+**Banco de Dados:** SQL Server, MySQL, Oracle  
+**Cloud:** Microsoft Azure (AZ-900)  
+**Ferramentas:** Azure DevOps (TFS), Git, Swagger  
+**Práticas:** Scrum, Clean Code, Arquitetura em Camadas  
+**Conhecimentos Adicionais:**  VBA, Java, C++, Flutter e C
+
+---
+
+## 💼 Experiência Profissional
+
+**Desenvolvedor de Sistemas | SinergyRH (Atual)**  
+- Desenvolvimento **fullstack** de sistemas web  
+- Criação e manutenção de **APIs REST**  
+- **Otimização de consultas e performance** em SQL Server  
+- Desenvolvimento de **dashboards e relatórios**  
+
+**Desenvolvedor de Sistemas | OuroWeb**  
+- Desenvolvimento e manutenção de **ERP** com C#/.NET e VBA  
+- **Migração de sistemas legados** para .NET  
+- Integração com banco de dados e **otimização de queries**  
+- Suporte técnico e apoio a novos colaboradores  
+
+---
+
+## 📌 Projetos em Destaque
+
+- **Mini E-commerce (.NET)** → API REST, carrinho e checkout  
+- **Sistema de Vendas (C# + MySQL)** → CRUD completo + regras de negócio  
+- **API com JWT** → autenticação, autorização e segurança  
+- **API com EF Core** → migrations, modelagem e boas práticas  
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Engenharia de Software – UNAERP (em andamento)**  
+Destaques: Estrutura de Dados, Banco de Dados, POO, Modelagem de Software e Sistemas Operacionais  
+
+---
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemartins-dev/)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=lipemn08@gmail.com)
